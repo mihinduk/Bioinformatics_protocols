@@ -1,4 +1,4 @@
-Creating a snpEff Database for Viral Genomes
+**Creating a snpEff Database for Viral Genomes**
 
   This guide provides step-by-step instructions for adding viral genomes to snpEff for variant annotation.
 
@@ -229,3 +229,6 @@ Creating a snpEff Database for Viral Genomes
 
   # Build command:
   java -jar snpEff.jar build -genbank -v -noCheckProtein AF304460.1
+```
+
+**Protocol written in collaboration with Claude.ai**
